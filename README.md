@@ -1,4 +1,4 @@
-# Password Cracking & Credential Attack Suite
+An automated cross-platform security toolkit for auditing password strength and credential resilience. Features include dictionary generation, hash extraction (Linux/Windows), and mathematical entropy analysis# Password Cracking & Credential Attack Suite
 
 ## 1. Project Overview
 This project is a practical toolkit designed for **password policy testing** and **credential security assessment**[cite: 4]. [cite_start]It provides an ethical environment to understand how credentials are stored, how they are attacked, and how to reinforce authentication[cite: 7, 8].
